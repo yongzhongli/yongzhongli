@@ -214,7 +214,7 @@ responsive_image:
     - width: 480
     - width: 800
     - width: 1400
-      quality: 100
+      quality: 90
   # Strip EXIF and other JPEG profiles. Helps to minimize JPEG size.
   strip: true
 
