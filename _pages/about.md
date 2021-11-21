@@ -1,24 +1,52 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.ece.utoronto.ca">University of Toronto, ECE department</a>, Master of Applied Science (MASc.)
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<font size=5><strong>Bio</strong></font>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Greeting! I am Yongzhong Li.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m a first-year ECE MASc student at University of Toronto, currently working with [Prof. Piero Triverio](https://www.ece.utoronto.ca/people/triverio-p/) in [Modelics Lab](http://www.modelics.org). I’m grateful to be supported by the Edward S Rogers Sr Graduate Scholarship.
+
+Previously, I was a research assistant at the [Department of Physics, HKUST](https://physics.ust.hk/eng/index.php), working with [Prof. Jensen Li](https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=433) , [Prof. TAM Wing Yim](https://physics.ust.hk/eng/people_detail.php?pplcat=5&id=35)
+
+Before that, I completed my undergraduate (ECE, advised by [Prof. Qiang Ren](http://shi.buaa.edu.cn/renqiang/zh_CN/index.htm)) degrees at [Beihang University](https://ev.buaa.edu.cn) in 2020, with bachelor’s thesis in Applied Electromagentics.
+
+I also spend a summer at [UCLA Bioengineering](https://www.bioeng.ucla.edu) as a visiting student at [Prof. Jun Chen](https://samueli.ucla.edu/people/jun-chen/) Group for Bioelectronics Research.
+
+[<u>CV</u>](/assets/pdf/cv.pdf) / [<u>Email</u>](yongzhong.li@mail.utoronto.ca) / [<u>Linkedin</u>](https://www.linkedin.com/in/yongzhong-li/) / [<u>Twitter</u>](https://twitter.com/lee_onevsall) / [<u>Wechat</u>](/assets/img/wechat.jpg) / <u>Google Scholar</u>
+
+<font size=5><strong>Research Interests</strong></font>
+
+I am interested in modeling all kinds of wave phenenomena (Electromagnetics, Acoustics, Thermal, etc) through numerical methods and data-driven approaches (Deep learning). I am motivated to work with experimentalists to push applications in circuits analysis, materials design and inverse imaging, etc. 
+
+
+<font size=5><strong>News</strong></font>
+
+
++ 2021/11 Unsupervised learning for acoustics parameters inversion, accepted by [Physical Review Applied](https://journals.aps.org/prapplied/accepted/5f070Ke5S6015d0077801be54755a31e855adfda3).
++ 2021/11 Our book [Sophisticated Electromagnetic Forward Scattering Solver via Deep Learning](https://link.springer.com/book/10.1007/978-981-16-6261-4#about) has been published by Springer Nature. See [Preface](/assets/pdf/preface.pdf) for a quick preview.
++ 2021/09 I am honored to receive Edward S Rogers Sr Graduate Scholarship to support my graduate study at UofT.
++ 2020/09 I am honored to receive RedBird Fellowship from HKUST.
++ 2020/08 New paper on accelerating scattering modeling for nanostructure is now on [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9149921).  
++ 2020/07 Completed my undergraduate at Beihang University with Outstanding Thesis Award (5/339).
++ 2020/07 I am honored to receive College Graduate Excellence Award.
++ 2020/03 Our review paper [Smart Textiles for Electricity Generation](https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00821) is accepted by Chemical Review and selected as front cover.
+
+
+
+
+
+
