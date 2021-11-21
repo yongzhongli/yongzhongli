@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 <font size=5><strong>Bio</strong></font>
 
-Greeting! I am Yongzhong Li.
+Hey, thanks for stopping by! :wave:
 
 I’m a first-year ECE MASc student at University of Toronto, currently working with [Prof. Piero Triverio](https://www.ece.utoronto.ca/people/triverio-p/) in [Modelics Lab](http://www.modelics.org). I’m grateful to be supported by the Edward S Rogers Sr Graduate Scholarship.
 
