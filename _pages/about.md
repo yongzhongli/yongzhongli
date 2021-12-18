@@ -14,6 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+---
+
 <font size=5><strong>Bio</strong></font>
 
 Hey, thanks for stopping by! :wave:
@@ -36,7 +38,7 @@ I am interested in modeling all kinds of wave phenenomena (Electromagnetics, Aco
 <font size=5><strong>News</strong></font>
 
 
-+ 2021/11 Unsupervised learning for acoustics parameters inversion, accepted by [Physical Review Applied](https://journals.aps.org/prapplied/accepted/5f070Ke5S6015d0077801be54755a31e855adfda3).
++ 2021/11 Unsupervised learning for acoustics parameters inversion, accepted by [Physical Review Applied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.064039).
 + 2021/11 Our book [Sophisticated Electromagnetic Forward Scattering Solver via Deep Learning](https://link.springer.com/book/10.1007/978-981-16-6261-4#about) has been published by Springer Nature. See [Preface](/assets/pdf/preface.pdf) for a quick preview.
 + 2021/09 I am honored to receive Edward S Rogers Sr Graduate Scholarship to support my graduate study at UofT.
 + 2020/09 I am honored to receive RedBird Fellowship from HKUST.
