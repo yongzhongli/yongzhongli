@@ -26,7 +26,7 @@ Before that, I completed my undergraduate (ECE, advised by [Prof. Qiang Ren](htt
 
 I also spend a summer at [UCLA Bioengineering](https://www.bioeng.ucla.edu) as a visiting student at [Prof. Jun Chen](https://samueli.ucla.edu/people/jun-chen/) Group for Bioelectronics Research.
 
-[<u>CV</u>](/assets/pdf/cv.pdf) / [<u>Email</u>](mailto:yongzhong.li@mail.utoronto.ca) / [<u>Linkedin</u>](https://www.linkedin.com/in/yongzhong-li/) / [<u>Twitter</u>](https://twitter.com/lee_onevsall) / [<u>Wechat</u>](/assets/img/wechat.jpg) / <u>Google Scholar</u>
+[<u>CV</u>](/assets/pdf/cv.pdf) / [<u>Email</u>](mailto:yongzhong.li@mail.utoronto.ca) / [<u>Linkedin</u>](https://www.linkedin.com/in/yongzhong-li/) / [<u>Twitter</u>](https://twitter.com/lee_onevsall) / [<u>Wechat</u>](/assets/img/wechat.jpg) / [<u>Google Scholar</u>](https://scholar.google.com/citations?user=zmsS7A8AAAAJ&hl=zh-CN)
 
 <font size=5><strong>Research Interests</strong></font>
 
