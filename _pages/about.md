@@ -22,8 +22,6 @@ Hey, thanks for stopping by! :wave:
 
 I’m a ECE Master student at University of Toronto, currently working with [Prof. Piero Triverio](https://www.ece.utoronto.ca/people/triverio-p/) in [Modelics Lab](http://www.modelics.org). I’m grateful to be supported by the Edward S Rogers Sr Graduate Scholarship.
 
-Previously, I was a research assistant at the [Department of Physics, HKUST](https://physics.ust.hk/eng/index.php), working with [Prof. Jensen Li](https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=433) , [Prof. TAM Wing Yim](https://physics.ust.hk/eng/people_detail.php?pplcat=5&id=35).
-
 Before that, I completed my undergraduate (ECE, advised by [Prof. Qiang Ren](http://shi.buaa.edu.cn/renqiang/zh_CN/index.htm)) degrees at [Beihang University](https://ev.buaa.edu.cn) in 2020, with bachelor’s thesis in Computational Electromagentics.
 
 I also spend a summer at [UCLA Bioengineering](https://www.bioeng.ucla.edu) as a visiting student at [Prof. Jun Chen](https://samueli.ucla.edu/people/jun-chen/) Group for Bioelectronics Research.
