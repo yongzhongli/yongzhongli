@@ -35,7 +35,7 @@ My research goal is to model and simulate physical systems at different scales b
 
 <font size=5><strong>News</strong></font>
 
-
++ 2022/07 Our work on Unsupervised learning for acoustics parameters inversion was presented on [META 2022](https://metaconferences.org/META/index.php/META2022). Please find [poster](META22_poster.pdf) here.
 + 2021/11 Unsupervised learning for acoustics parameters inversion, accepted by [Physical Review Applied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.064039).
 + 2021/11 Our book [Sophisticated Electromagnetic Forward Scattering Solver via Deep Learning](https://link.springer.com/book/10.1007/978-981-16-6261-4#about) has been published by Springer Nature. See [Preface](/assets/pdf/preface.pdf) for a quick preview.
 + 2021/09 I am honored to receive Edward S Rogers Sr Graduate Scholarship to support my graduate study at UofT.
