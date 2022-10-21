@@ -30,7 +30,7 @@ I also spend a summer at [UCLA Bioengineering](https://www.bioeng.ucla.edu) as a
 
 <font size=5><strong>Research Interests</strong></font>
 
-My research goal is to model and simulate physical systems at different scales by integrating numerical methods (boundary element method, finite difference method) and machine learning techniques, with particular interests in solving Maxwell’s equation in complex geometries 
+My research goal is to model and simulate physical systems at different scales by integrating numerical methods (boundary element method, finite difference method) and machine learning techniques, with particular interests in solving Maxwell’s equation in complex geometries.
 
 
 <font size=5><strong>News</strong></font>
